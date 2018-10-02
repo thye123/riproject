@@ -10,9 +10,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 @Controller
 public class BasicController {
-
-	
-	
 	
 	@RequestMapping("/")
 	public String Main() {
