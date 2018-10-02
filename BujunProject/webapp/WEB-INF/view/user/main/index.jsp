@@ -14,6 +14,9 @@
 		</div>
 		
 		test2222222222222
+		sdfsdfsdfsdfsdf
+		
+		
 		
 		<div class="search_bg">
 			<div class="search_title">소장자료 검색</div>
