@@ -16,6 +16,7 @@
 		<div class="search_bg">
 			<div class="search_title">소장자료 검색</div>
 			
+			
 			<form class="search_form">
 				<input type="text" />
 				<button type="button" class="m_search">
